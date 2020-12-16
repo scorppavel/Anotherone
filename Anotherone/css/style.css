@@ -1,9 +1,12 @@
 body {
-    background-color: #1F2326;
+    background-color: #333333;
     color: #fff;
 }
 
-.back {
-    background-image: url(/img/circle_back.png) no-repeat;
+.container {
+	height: auto;
+	width: 405px;
 }
+
+
 
